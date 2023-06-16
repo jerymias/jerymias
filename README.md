@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jerymias
+- 👀 I’m interested in programacion...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+jerymias/jerymias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+= esto es un mensaje 
+
+print("hello work")
